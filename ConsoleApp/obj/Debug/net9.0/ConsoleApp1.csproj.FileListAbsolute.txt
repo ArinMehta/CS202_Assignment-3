@@ -12,3 +12,4 @@
 /Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ConsoleApp1.pdb
 /Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
 /Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp1.dll
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ConsoleApp1.sourcelink.json

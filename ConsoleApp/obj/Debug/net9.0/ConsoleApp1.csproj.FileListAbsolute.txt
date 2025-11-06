@@ -1,0 +1,14 @@
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/bin/Debug/net9.0/ConsoleApp1
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/bin/Debug/net9.0/ConsoleApp1.deps.json
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/bin/Debug/net9.0/ConsoleApp1.dll
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/bin/Debug/net9.0/ConsoleApp1.pdb
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ConsoleApp1.dll
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ConsoleApp1.pdb
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp1.dll

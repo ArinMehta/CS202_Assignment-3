@@ -26,7 +26,7 @@ namespace Task2
             do
             {
                 Console.Write("\n\nEnter a number to find its factorial (or type 'exit' to quit): ");
-                input = Console.ReadLine();
+                input = Console.ReadLine() ?? "";
 
                 if (input.ToLower() != "exit")
                 {

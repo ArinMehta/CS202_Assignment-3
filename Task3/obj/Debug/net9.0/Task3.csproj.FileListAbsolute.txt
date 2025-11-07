@@ -1,0 +1,15 @@
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/bin/Debug/net9.0/Task3
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/bin/Debug/net9.0/Task3.deps.json
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/bin/Debug/net9.0/Task3.runtimeconfig.json
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/bin/Debug/net9.0/Task3.dll
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/bin/Debug/net9.0/Task3.pdb
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/obj/Debug/net9.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/obj/Debug/net9.0/Task3.AssemblyInfoInputs.cache
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/obj/Debug/net9.0/Task3.AssemblyInfo.cs
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/obj/Debug/net9.0/Task3.csproj.CoreCompileInputs.cache
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/obj/Debug/net9.0/Task3.sourcelink.json
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/obj/Debug/net9.0/Task3.dll
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/obj/Debug/net9.0/refint/Task3.dll
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/obj/Debug/net9.0/Task3.pdb
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/obj/Debug/net9.0/Task3.genruntimeconfig.cache
+/Users/arinmehta/Documents/GitHub/STT/Assignment-3/Task3/obj/Debug/net9.0/ref/Task3.dll
